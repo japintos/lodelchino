@@ -304,19 +304,22 @@ a {
 
 .hero-image {
     position: relative;
+    overflow: hidden;
+    border-radius: var(--border-radius-lg);
 }
 
 .hero-img {
-    width: 100%;
-    height: 500px;
+    width: 125%;
+    height: 625px;
     object-fit: cover;
     border-radius: var(--border-radius-lg);
     box-shadow: var(--shadow-heavy);
     transition: var(--transition-medium);
+    transform: translateX(-10%);
 }
 
 .hero-img:hover {
-    transform: scale(1.02);
+    transform: translateX(-10%) scale(1.02);
 }
 
 /* ===== SERVICES SECTION ===== */
@@ -929,7 +932,13 @@ a {
     }
     
     .hero-img {
-        height: 300px;
+        height: 375px;
+        width: 100%;
+        transform: none;
+    }
+    
+    .hero-img:hover {
+        transform: scale(1.02);
     }
     
     .services-grid {
