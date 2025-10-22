@@ -1,8 +1,8 @@
-# 🎉 ¡Landing Page de Quincho El Encuentro Completada!
+# 🎉 ¡Landing Page de Lo del Chino Completada!
 
 ## ✅ Proyecto Finalizado
 
-He creado una landing page institucional completa para "Quincho El Encuentro" con todas las especificaciones solicitadas. El sitio está listo para usar y solo necesita algunas personalizaciones finales.
+He creado una landing page institucional completa para "*Lo del Chino*" con todas las especificaciones solicitadas. El sitio está listo para usar y solo necesita algunas personalizaciones finales.
 
 ## 📁 Archivos Creados
 
@@ -152,6 +152,10 @@ Si necesitas ayuda con personalizaciones adicionales o tienes preguntas sobre el
 
 ## 🎊 ¡El sitio está listo para usar!
 
-Solo necesitas personalizar la información de contacto y ya tienes una landing page profesional y completa para Quincho El Encuentro.
+Solo necesitas personalizar la información de contacto y ya tienes una landing page profesional y completa para *Lo del Chino*.
 
 **¡Disfruta tu nuevo sitio web!** 🚀
+
+---
+
+*Desarrollado con ❤️ para Lo del Chino por WebXpert - Julio Alberto Pintos*

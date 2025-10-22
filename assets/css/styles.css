@@ -200,6 +200,12 @@ a {
     color: var(--primary-color);
 }
 
+.logo-text em {
+    font-style: italic;
+    font-weight: 500;
+    color: var(--primary-color);
+}
+
 .nav-menu {
     display: flex;
     list-style: none;
@@ -634,6 +640,12 @@ a {
     font-family: var(--font-secondary);
     font-size: 1.5rem;
     font-weight: 600;
+    color: var(--secondary-color);
+}
+
+.footer-logo-text em {
+    font-style: italic;
+    font-weight: 500;
     color: var(--secondary-color);
 }
 

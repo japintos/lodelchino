@@ -520,7 +520,7 @@ window.addEventListener('error', function(e) {
 
 // ===== CONSOLE BRANDING =====
 console.log(`
-%cQuincho El Encuentro
+%cLo del Chino
 %cDesarrollado por WebXpert - Julio Alberto Pintos
 %cSitio web institucional para eventos y catering
 `, 

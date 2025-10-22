@@ -1,8 +1,8 @@
-# Quincho El Encuentro - Landing Page Institucional
+# Lo del Chino - Landing Page Institucional
 
 ## 🏡 Descripción del Proyecto
 
-Landing page institucional y estética para "Quincho El Encuentro", un salón de eventos y quincho que ofrece servicios de catering, decoración y confort. El sitio web transmite profesionalismo, calidez y confianza.
+Landing page institucional y estética para "*Lo del Chino*", un salón de eventos y quincho que ofrece servicios de catering, decoración y confort. El sitio web transmite profesionalismo, calidez y confianza.
 
 **Desarrollado por:** WebXpert - Julio Alberto Pintos
 
@@ -78,6 +78,7 @@ Necesitas agregar las siguientes imágenes en la carpeta `assets/images/`:
    - Dimensiones: 40x40px (mínimo)
    - Formato: PNG con transparencia
    - Estilo: Institucional, relacionado con quincho/eventos
+   - Nombre: "*Lo del Chino*" en cursiva elegante
 
 2. **Imagen hero** (`hero-image.jpg`)
    - Dimensiones: 1200x600px (recomendado)
@@ -164,4 +165,4 @@ Para consultas sobre el desarrollo o personalización del sitio:
 
 ---
 
-*Desarrollado con ❤️ para Quincho El Encuentro*
+*Desarrollado con ❤️ para Lo del Chino*
