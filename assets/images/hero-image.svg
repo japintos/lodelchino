@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" width="1200" height="600">
+  <defs>
+    <linearGradient id="skyGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#87CEEB;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E0F6FF;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="grassGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#9ACD32;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#6B8E23;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="poolGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#4A90E2;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2E5BBA;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Sky background -->
+  <rect width="1200" height="300" fill="url(#skyGrad)"/>
+  
+  <!-- Ground/Grass -->
+  <rect x="0" y="300" width="1200" height="300" fill="url(#grassGrad)"/>
+  
+  <!-- Trees in background -->
+  <circle cx="200" cy="250" r="40" fill="#228B22"/>
+  <rect x="195" y="250" width="10" height="30" fill="#8B4513"/>
+  
+  <circle cx="1000" cy="220" r="50" fill="#228B22"/>
+  <rect x="995" y="220" width="10" height="40" fill="#8B4513"/>
+  
+  <circle cx="150" cy="280" r="35" fill="#32CD32"/>
+  <rect x="147" y="280" width="6" height="25" fill="#8B4513"/>
+  
+  <!-- Main quincho building -->
+  <rect x="400" y="200" width="400" height="200" fill="#D2B48C"/>
+  <path d="M400 200 L600 120 L800 200" fill="#8B4513"/>
+  
+  <!-- Quincho roof details -->
+  <rect x="420" y="180" width="360" height="20" fill="#A0522D"/>
+  
+  <!-- Windows -->
+  <rect x="450" y="250" width="40" height="60" fill="#87CEEB" stroke="#8B4513" stroke-width="2"/>
+  <rect x="710" y="250" width="40" height="60" fill="#87CEEB" stroke="#8B4513" stroke-width="2"/>
+  
+  <!-- Door -->
+  <rect x="570" y="320" width="60" height="80" fill="#654321"/>
+  
+  <!-- Pool -->
+  <ellipse cx="300" cy="450" rx="120" ry="40" fill="url(#poolGrad)"/>
+  <ellipse cx="300" cy="440" rx="110" ry="30" fill="#87CEEB" opacity="0.3"/>
+  
+  <!-- Pool deck -->
+  <ellipse cx="300" cy="450" rx="140" ry="50" fill="#F5F5DC" opacity="0.8"/>
+  
+  <!-- Outdoor furniture -->
+  <rect x="200" y="380" width="30" height="20" fill="#8B4513"/>
+  <rect x="250" y="380" width="30" height="20" fill="#8B4513"/>
+  <rect x="350" y="380" width="30" height="20" fill="#8B4513"/>
+  <rect x="400" y="380" width="30" height="20" fill="#8B4513"/>
+  
+  <!-- BBQ area -->
+  <rect x="900" y="350" width="80" height="60" fill="#696969"/>
+  <rect x="920" y="330" width="40" height="20" fill="#2F4F4F"/>
+  
+  <!-- Tables and chairs -->
+  <circle cx="500" cy="480" r="25" fill="#8B4513"/>
+  <rect x="490" y="500" width="5" height="15" fill="#654321"/>
+  <rect x="505" y="500" width="5" height="15" fill="#654321"/>
+  
+  <circle cx="700" cy="480" r="25" fill="#8B4513"/>
+  <rect x="690" y="500" width="5" height="15" fill="#654321"/>
+  <rect x="705" y="500" width="5" height="15" fill="#654321"/>
+  
+  <!-- Decorative elements -->
+  <circle cx="100" cy="100" r="20" fill="#FFD700" opacity="0.8"/>
+  <circle cx="1100" cy="80" r="15" fill="#FFD700" opacity="0.6"/>
+  
+  <!-- Text overlay area (for title) -->
+  <rect x="0" y="0" width="1200" height="600" fill="rgba(0,0,0,0.1)" opacity="0.3"/>
+</svg>

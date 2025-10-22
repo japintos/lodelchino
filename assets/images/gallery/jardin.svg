@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+  <defs>
+    <linearGradient id="grassGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#9ACD32;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#6B8E23;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background sky -->
+  <rect width="600" height="200" fill="#87CEEB"/>
+  
+  <!-- Ground -->
+  <rect x="0" y="200" width="600" height="200" fill="url(#grassGrad)"/>
+  
+  <!-- Large trees -->
+  <circle cx="100" cy="150" r="40" fill="#228B22"/>
+  <rect x="95" y="150" width="10" height="50" fill="#8B4513"/>
+  
+  <circle cx="500" cy="130" r="50" fill="#32CD32"/>
+  <rect x="495" y="130" width="10" height="60" fill="#8B4513"/>
+  
+  <circle cx="200" cy="180" r="35" fill="#228B22"/>
+  <rect x="197" y="180" width="6" height="40" fill="#8B4513"/>
+  
+  <circle cx="400" cy="160" r="45" fill="#32CD32"/>
+  <rect x="397" y="160" width="6" height="50" fill="#8B4513"/>
+  
+  <!-- Medium trees -->
+  <circle cx="150" cy="250" r="25" fill="#228B22"/>
+  <rect x="147" y="250" width="6" height="30" fill="#8B4513"/>
+  
+  <circle cx="450" cy="240" r="30" fill="#32CD32"/>
+  <rect x="447" y="240" width="6" height="35" fill="#8B4513"/>
+  
+  <!-- Small bushes -->
+  <circle cx="80" cy="300" r="15" fill="#32CD32"/>
+  <circle cx="120" cy="320" r="12" fill="#228B22"/>
+  <circle cx="480" cy="310" r="18" fill="#32CD32"/>
+  <circle cx="520" cy="330" r="14" fill="#228B22"/>
+  
+  <!-- Flower beds -->
+  <ellipse cx="250" cy="350" rx="40" ry="15" fill="#8B4513"/>
+  <circle cx="230" cy="350" r="3" fill="#FF69B4"/>
+  <circle cx="250" cy="350" r="3" fill="#FFD700"/>
+  <circle cx="270" cy="350" r="3" fill="#FF69B4"/>
+  <circle cx="240" cy="340" r="3" fill="#FFD700"/>
+  <circle cx="260" cy="340" r="3" fill="#FF69B4"/>
+  
+  <ellipse cx="350" cy="360" rx="35" ry="12" fill="#8B4513"/>
+  <circle cx="335" cy="360" r="3" fill="#FFD700"/>
+  <circle cx="350" cy="360" r="3" fill="#FF69B4"/>
+  <circle cx="365" cy="360" r="3" fill="#FFD700"/>
+  <circle cx="345" cy="350" r="3" fill="#FF69B4"/>
+  <circle cx="355" cy="350" r="3" fill="#FFD700"/>
+  
+  <!-- Garden path -->
+  <path d="M300 200 Q350 250 300 300 Q250 350 300 400" fill="#D2B48C" stroke="#8B4513" stroke-width="2"/>
+  
+  <!-- Garden bench -->
+  <rect x="280" y="280" width="40" height="15" fill="#8B4513"/>
+  <rect x="285" y="295" width="5" height="20" fill="#654321"/>
+  <rect x="310" y="295" width="5" height="20" fill="#654321"/>
+  
+  <!-- Decorative stones -->
+  <circle cx="180" cy="320" r="8" fill="#A9A9A9"/>
+  <circle cx="420" cy="340" r="6" fill="#A9A9A9"/>
+  <circle cx="320" cy="320" r="5" fill="#A9A9A9"/>
+  
+  <!-- Birds -->
+  <path d="M50 100 Q60 90 70 100" stroke="#000" stroke-width="2" fill="none"/>
+  <path d="M550 80 Q560 70 570 80" stroke="#000" stroke-width="2" fill="none"/>
+</svg>

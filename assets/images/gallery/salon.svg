@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+  <defs>
+    <linearGradient id="wallGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#F5F5DC;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E6E6FA;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background walls -->
+  <rect width="600" height="400" fill="url(#wallGrad)"/>
+  
+  <!-- Floor -->
+  <rect x="0" y="300" width="600" height="100" fill="#D2B48C"/>
+  
+  <!-- Ceiling -->
+  <rect x="0" y="0" width="600" height="50" fill="#F5F5DC"/>
+  
+  <!-- Chandelier -->
+  <circle cx="300" cy="40" r="15" fill="#FFD700"/>
+  <rect x="295" y="55" width="10" height="20" fill="#8B4513"/>
+  <line x1="280" y="65" x2="320" y2="65" stroke="#8B4513" stroke-width="2"/>
+  <circle cx="280" cy="65" r="3" fill="#FFD700"/>
+  <circle cx="300" cy="65" r="3" fill="#FFD700"/>
+  <circle cx="320" cy="65" r="3" fill="#FFD700"/>
+  
+  <!-- Windows -->
+  <rect x="50" y="80" width="80" height="120" fill="#87CEEB" stroke="#8B4513" stroke-width="3"/>
+  <line x1="90" y="80" x2="90" y2="200" stroke="#8B4513" stroke-width="2"/>
+  <line x1="50" y="140" x2="130" y2="140" stroke="#8B4513" stroke-width="2"/>
+  
+  <rect x="470" y="80" width="80" height="120" fill="#87CEEB" stroke="#8B4513" stroke-width="3"/>
+  <line x1="510" y="80" x2="510" y2="200" stroke="#8B4513" stroke-width="2"/>
+  <line x1="470" y="140" x2="550" y2="140" stroke="#8B4513" stroke-width="2"/>
+  
+  <!-- Main dining table -->
+  <ellipse cx="300" cy="250" rx="100" ry="50" fill="#8B4513"/>
+  <ellipse cx="300" cy="240" rx="90" ry="40" fill="#A0522D"/>
+  
+  <!-- Table centerpiece -->
+  <circle cx="300" cy="240" r="15" fill="#FFD700"/>
+  <circle cx="295" cy="235" r="3" fill="#FF69B4"/>
+  <circle cx="305" cy="235" r="3" fill="#FF69B4"/>
+  <circle cx="300" cy="245" r="3" fill="#FF69B4"/>
+  
+  <!-- Chairs around table -->
+  <rect x="200" y="220" width="20" height="30" fill="#654321"/>
+  <rect x="380" y="220" width="20" height="30" fill="#654321"/>
+  <rect x="220" y="280" width="20" height="30" fill="#654321"/>
+  <rect x="360" y="280" width="20" height="30" fill="#654321"/>
+  <rect x="190" y="250" width="20" height="30" fill="#654321"/>
+  <rect x="390" y="250" width="20" height="30" fill="#654321"/>
+  
+  <!-- Side tables -->
+  <rect x="150" y="280" width="40" height="30" fill="#8B4513"/>
+  <rect x="410" y="280" width="40" height="30" fill="#8B4513"/>
+  
+  <!-- Decorative vases on side tables -->
+  <rect x="160" y="260" width="20" height="25" fill="#4A90E2"/>
+  <circle cx="170" cy="255" r="8" fill="#32CD32"/>
+  
+  <rect x="420" y="260" width="20" height="25" fill="#4A90E2"/>
+  <circle cx="430" cy="255" r="8" fill="#32CD32"/>
+  
+  <!-- Wall decorations -->
+  <rect x="200" y="100" width="60" height="40" fill="#8B4513" stroke="#654321" stroke-width="2"/>
+  <rect x="340" y="100" width="60" height="40" fill="#8B4513" stroke="#654321" stroke-width="2"/>
+  
+  <!-- Curtains -->
+  <rect x="40" y="80" width="20" height="120" fill="#8B4513"/>
+  <rect x="540" y="80" width="20" height="120" fill="#8B4513"/>
+  
+  <!-- Buffet table -->
+  <rect x="250" y="320" width="100" height="20" fill="#8B4513"/>
+  <rect x="260" y="340" width="5" height="20" fill="#654321"/>
+  <rect x="335" y="340" width="5" height="20" fill="#654321"/>
+  
+  <!-- Serving dishes -->
+  <circle cx="280" cy="330" r="8" fill="#C0C0C0"/>
+  <circle cx="320" cy="330" r="8" fill="#C0C0C0"/>
+  
+  <!-- Lighting fixtures -->
+  <circle cx="200" cy="60" r="8" fill="#FFD700" opacity="0.8"/>
+  <circle cx="400" cy="60" r="8" fill="#FFD700" opacity="0.8"/>
+</svg>
